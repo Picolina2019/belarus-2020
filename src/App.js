@@ -11,7 +11,7 @@ const App = () => {
       }}
     >
       <h1>
-        Why Lukashenko can't become the president of Belarus for the SIX time .
+        Why Lukashenko can't become the president of Belarus for the SIXTH time .
       </h1>
       <h4 style={{ fontStyle: 'italic', color: 'coral' }}>
         Current ranking of candidates for President according to the Sociology
